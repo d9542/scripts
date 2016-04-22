@@ -8,7 +8,7 @@
 # Short-Description: Start daemon at boot time
 # Description:       Enable service provided by daemon.
 ### END INIT INFO
-#https://github.com/fhd/init-script-template/blob/master/template
+#orginal init template: https://github.com/fhd/init-script-template/blob/master/template
 ###Have to add Java 7 variables to ../graylog-collector-0.4.2/bin/graylog-collector before starting for script to work.
 
 
